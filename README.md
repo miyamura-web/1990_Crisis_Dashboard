@@ -11,15 +11,16 @@ The 1990s was a defining decade in economic history—marked by high inflation, 
 1. 1985-1990 (Growth Phase) :
 		○ Economic expansion driven by industrial production, government spending, and moderate inflation.
 		○ Increasing exports and investment in key industries.
-2. 1990-1991 (Decline Phase) :
+
+3. 1990-1991 (Decline Phase) :
 		○ 1991 Economic Crisis: Severe balance of payments crisis due to high fiscal deficits, excessive borrowing, and low foreign exchange reserves.
 		○ High Inflation: Inflation surged, reducing purchasing power and slowing economic growth.
 		○ Decline in Industrial Production: The Industrial Production Index shows a sharp drop during this period.
-3. 1991-1993 (Recovery and Stabilization) :
+4. 1991-1993 (Recovery and Stabilization) :
 		○ Liberalization Reforms (1991): The Indian government, led by Finance Minister Dr. Manmohan Singh, implemented economic reforms including trade liberalization, privatization, and deregulation.
 		○ Foreign Investments & IMF Loan: India received an IMF bailout, boosting investor confidence.
 		○ Policy Changes: Tax reforms and financial sector liberalization contributed to economic stability.
-4. 1993-1995 (Strong Growth) :
+5. 1993-1995 (Strong Growth) :
 		○ Economic Reforms Boosting GDP: Growth accelerated due to increased FDI, privatization, and improved industrial performance.
 		○ Rising Exports: Export-oriented industries gained momentum, as reflected in the trade data.
 		○ Foreign Exchange Reserves Growth: Increased foreign currency reserves and gold holdings supported a stable economic environment.
