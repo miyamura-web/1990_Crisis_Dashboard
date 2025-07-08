@@ -27,9 +27,9 @@ The 1990s was a defining decade in economic history marked by high inflation, mo
 
 #### Debt Rate :-
 1. 1985-1989 (Rising Debt Levels) :
-		• Debt levels increase as India relies on external borrowing to finance its fiscal deficit.
-		• High government spending on subsidies, public sector enterprises, and infrastructure leads to increasing debt.
-		• A fixed exchange rate system and trade restrictions limit foreign reserves, pushing India toward external borrowing.
+		○ Debt levels increase as India relies on external borrowing to finance its fiscal deficit.
+		○ High government spending on subsidies, public sector enterprises, and infrastructure leads to increasing debt.
+		○ A fixed exchange rate system and trade restrictions limit foreign reserves, pushing India toward external borrowing.
 2. 1990 (Peak Debt Crisis – 20.6%) :
 		• Severe Balance of Payments (BoP) Crisis:
 			○ By 1990, India's foreign exchange reserves were nearly exhausted, covering only a few weeks of imports.
@@ -41,9 +41,9 @@ The 1990s was a defining decade in economic history marked by high inflation, mo
 		• Devaluation of the Rupee (1991): The government devalued the currency to make exports competitive and improve foreign reserves.
 		• Privatization & Economic Liberalization: Structural reforms reduced the burden on the government, stabilizing debt growth.
 4. Post-1993 (Debt Control and Growth) :
-		• Higher GDP Growth: With reforms, GDP began to rise, improving India's ability to manage debt.
-		• Foreign Direct Investment (FDI) Inflows: Increased FDI reduced the need for external borrowing.
-		• Trade Balance Improvement: A gradual rise in exports helped earn foreign exchange, reducing the debt burden.
+		○ Higher GDP Growth: With reforms, GDP began to rise, improving India's ability to manage debt.
+		○ Foreign Direct Investment (FDI) Inflows: Increased FDI reduced the need for external borrowing.
+		○ Trade Balance Improvement: A gradual rise in exports helped earn foreign exchange, reducing the debt burden.
 
 #### IPI Rate :-
 1. 1985-1989 (Stable and Moderate Growth in Industrial Production) :
