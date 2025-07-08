@@ -1,6 +1,6 @@
 ## Unraveling the 1990s Economic Crisis: Macroeconomic Shifts
 
-The 1990s was a defining decade in economic history—marked by high inflation, mounting debt, and trade deficits that led to transformative reforms in liberalization, privatization, and globalization. But how did these shifts impact macroeconomic indicators?
+The 1990s was a defining decade in economic history marked by high inflation, mounting debt, and trade deficits that led to transformative reforms in liberalization, privatization, and globalization. But how did these shifts impact macroeconomic indicators?
 
 ### Dashboard : ![Image](https://github.com/user-attachments/assets/fbfc849d-4f54-4266-a33e-fbae32d53d08)
 
