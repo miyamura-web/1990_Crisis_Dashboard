@@ -15,7 +15,6 @@ The 1990s was a defining decade in economic history marked by high inflation, mo
                       ○ Increasing exports and investment in key industries.
 
 2. 1990-1991 (Decline Phase) :
-  <br>
 	             ○ 1991 Economic Crisis: Severe balance of payments crisis due to high fiscal deficits, excessive borrowing, and low foreign exchange reserves.
     <br>
 	             ○ High Inflation: Inflation surged, reducing purchasing power and slowing economic growth.
