@@ -9,6 +9,7 @@ The 1990s was a defining decade in economic history marked by high inflation, mo
 
 #### GDP :-
 1. 1985-1990 (Growth Phase) :
+    <br>
                       ○ Economic expansion driven by industrial production, government spending, and moderate inflation.
    <br>
                       ○ Increasing exports and investment in key industries.
