@@ -21,14 +21,12 @@ The 1990s was a defining decade in economic history marked by high inflation, mo
     <br>
                      ○ Decline in Industrial Production: The Industrial Production Index shows a sharp drop during this period.
    
-3. 1991-1993 (Recovery and Stabilization) : <br>
-		○ Liberalization Reforms (1991): The Indian government, led by Finance Minister Dr. Manmohan Singh, implemented economic reforms including trade liberalization, privatization, and deregulation.
-<br>
-		○ Foreign Investments & IMF Loan: India received an IMF bailout, boosting investor confidence.
-<br>
+3. 1991-1993 (Recovery and Stabilization) :  <br>
+		○ Liberalization Reforms (1991): The Indian government, led by Finance Minister Dr. Manmohan Singh, implemented economic reforms including trade liberalization, privatization, and deregulation. <br>
+		○ Foreign Investments & IMF Loan: India received an IMF bailout, boosting investor confidence. <br>
 		○ Policy Changes: Tax reforms and financial sector liberalization contributed to economic stability.
 
-5. 1993-1995 (Strong Growth) :
+4. 1993-1995 (Strong Growth) :
 		○ Economic Reforms Boosting GDP: Growth accelerated due to increased FDI, privatization, and improved industrial performance.
 		○ Rising Exports: Export-oriented industries gained momentum, as reflected in the trade data.
 		○ Foreign Exchange Reserves Growth: Increased foreign currency reserves and gold holdings supported a stable economic environment.
