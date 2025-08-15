@@ -26,9 +26,9 @@ The 1990s was a defining decade in economic history marked by high inflation, mo
 		○ Foreign Investments & IMF Loan: India received an IMF bailout, boosting investor confidence. <br>
 		○ Policy Changes: Tax reforms and financial sector liberalization contributed to economic stability.
 
-4. 1993-1995 (Strong Growth) :
-		○ Economic Reforms Boosting GDP: Growth accelerated due to increased FDI, privatization, and improved industrial performance.
-		○ Rising Exports: Export-oriented industries gained momentum, as reflected in the trade data.
+4. 1993-1995 (Strong Growth) :    <br>
+		○ Economic Reforms Boosting GDP: Growth accelerated due to increased FDI, privatization, and improved industrial performance.   <br>
+		○ Rising Exports: Export-oriented industries gained momentum, as reflected in the trade data.   <br>
 		○ Foreign Exchange Reserves Growth: Increased foreign currency reserves and gold holdings supported a stable economic environment.
 
 #### Debt Rate :-
