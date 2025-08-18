@@ -33,7 +33,7 @@ The 1990s was a defining decade in economic history marked by high inflation, mo
 
 #### Debt Rate :-
 1. 1985-1989 (Rising Debt Levels) :
-		○ Debt levels increase as India relies on external borrowing to finance its fiscal deficit.
+		○ Debt levels increase as India relies on external borrowing to finance its fiscal deficit.   <br>
 		○ High government spending on subsidies, public sector enterprises, and infrastructure leads to increasing debt.
 		○ A fixed exchange rate system and trade restrictions limit foreign reserves, pushing India toward external borrowing.
 2. 1990 (Peak Debt Crisis – 20.6%) :
