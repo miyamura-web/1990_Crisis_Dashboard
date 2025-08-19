@@ -38,7 +38,7 @@ The 1990s was a defining decade in economic history marked by high inflation, mo
 		○ A fixed exchange rate system and trade restrictions limit foreign reserves, pushing India toward external borrowing.
 
 3. 1990 (Peak Debt Crisis – 20.6%) :   <br>
-		• Severe Balance of Payments (BoP) Crisis:  
+		• Severe Balance of Payments (BoP) Crisis:   <br>
 			○ By 1990, India's foreign exchange reserves were nearly exhausted, covering only a few weeks of imports.
 			○ The government was unable to repay external debts, leading to a sharp increase in debt servicing costs.
 		• High Fiscal Deficit: Rising subsidies and inefficient public sector spending contributed to record debt accumulation.
