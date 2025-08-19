@@ -36,17 +36,18 @@ The 1990s was a defining decade in economic history marked by high inflation, mo
 		○ Debt levels increase as India relies on external borrowing to finance its fiscal deficit.   <br>
 		○ High government spending on subsidies, public sector enterprises, and infrastructure leads to increasing debt.    <br>
 		○ A fixed exchange rate system and trade restrictions limit foreign reserves, pushing India toward external borrowing.
-2. 1990 (Peak Debt Crisis – 20.6%) :
-		• Severe Balance of Payments (BoP) Crisis:
+
+3. 1990 (Peak Debt Crisis – 20.6%) :   <br>
+		• Severe Balance of Payments (BoP) Crisis:  
 			○ By 1990, India's foreign exchange reserves were nearly exhausted, covering only a few weeks of imports.
 			○ The government was unable to repay external debts, leading to a sharp increase in debt servicing costs.
 		• High Fiscal Deficit: Rising subsidies and inefficient public sector spending contributed to record debt accumulation.
 		• Dependence on External Borrowing: To maintain imports and government functions, India borrowed heavily from international lenders.
-3. 1991-1993 (Debt Stabilization through Economic Reforms) :
+4. 1991-1993 (Debt Stabilization through Economic Reforms) :
 		• IMF Bailout & Structural Adjustments: India secured a bailout from the International Monetary Fund (IMF), leading to economic reforms.
 		• Devaluation of the Rupee (1991): The government devalued the currency to make exports competitive and improve foreign reserves.
 		• Privatization & Economic Liberalization: Structural reforms reduced the burden on the government, stabilizing debt growth.
-4. Post-1993 (Debt Control and Growth) :
+5. Post-1993 (Debt Control and Growth) :
 		○ Higher GDP Growth: With reforms, GDP began to rise, improving India's ability to manage debt.
 		○ Foreign Direct Investment (FDI) Inflows: Increased FDI reduced the need for external borrowing.
 		○ Trade Balance Improvement: A gradual rise in exports helped earn foreign exchange, reducing the debt burden.
