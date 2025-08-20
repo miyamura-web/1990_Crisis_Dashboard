@@ -51,7 +51,7 @@ The 1990s was a defining decade in economic history marked by high inflation, mo
 
 7. Post-1993 (Debt Control and Growth) :  <br>
 		○ Higher GDP Growth: With reforms, GDP began to rise, improving India's ability to manage debt.    <br>
-		○ Foreign Direct Investment (FDI) Inflows: Increased FDI reduced the need for external borrowing.
+		○ Foreign Direct Investment (FDI) Inflows: Increased FDI reduced the need for external borrowing.        <br>
 		○ Trade Balance Improvement: A gradual rise in exports helped earn foreign exchange, reducing the debt burden.
 
 #### IPI Rate :-
