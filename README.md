@@ -46,9 +46,10 @@ The 1990s was a defining decade in economic history marked by high inflation, mo
 
 5. 1991-1993 (Debt Stabilization through Economic Reforms) :  <br>
 		• IMF Bailout & Structural Adjustments: India secured a bailout from the International Monetary Fund (IMF), leading to economic reforms.  <br>
-		• Devaluation of the Rupee (1991): The government devalued the currency to make exports competitive and improve foreign reserves.
+		• Devaluation of the Rupee (1991): The government devalued the currency to make exports competitive and improve foreign reserves.   <br>
 		• Privatization & Economic Liberalization: Structural reforms reduced the burden on the government, stabilizing debt growth.
-6. Post-1993 (Debt Control and Growth) :
+
+7. Post-1993 (Debt Control and Growth) :
 		○ Higher GDP Growth: With reforms, GDP began to rise, improving India's ability to manage debt.
 		○ Foreign Direct Investment (FDI) Inflows: Increased FDI reduced the need for external borrowing.
 		○ Trade Balance Improvement: A gradual rise in exports helped earn foreign exchange, reducing the debt burden.
