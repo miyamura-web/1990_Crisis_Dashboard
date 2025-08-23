@@ -67,8 +67,8 @@ The 1990s was a defining decade in economic history marked by high inflation, mo
 		• 1991 was a politically unstable year:   <br>
 			○ The Chandrashekhar government resigned in March 1991.   <br>
 			○ The new Congress government under P.V. Narasimha Rao took office in June 1991.    <br>
-		• The uncertainty surrounding economic policies and the ongoing crisis led to low investor confidence, causing delays in industrial investments.
-		• To control inflation and stabilize the economy, the Reserve Bank of India (RBI) tightened monetary policy.
+		• The uncertainty surrounding economic policies and the ongoing crisis led to low investor confidence, causing delays in industrial investments.   <br>
+		• To control inflation and stabilize the economy, the Reserve Bank of India (RBI) tightened monetary policy.   <br>
 		• Higher interest rates made it costly for businesses to borrow, reducing industrial expansion and investment.
 		• Many businesses, especially in manufacturing and heavy industries, struggled to get credit.
 		
