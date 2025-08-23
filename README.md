@@ -63,8 +63,8 @@ The 1990s was a defining decade in economic history marked by high inflation, mo
 2. 1990-1991 (Sharp Decline in IPI – Industrial Slowdown) :  <br>
 		• 1991 Economic Crisis: <br>
 		○ In July 1991, India devalued the rupee twice (by nearly 18-19%).    <br>
-		○ While this helped exports, it also made imported raw materials and machinery costlier, increasing production costs.
-		• 1991 was a politically unstable year:
+		○ While this helped exports, it also made imported raw materials and machinery costlier, increasing production costs.   <br>
+		• 1991 was a politically unstable year:   <br>
 			○ The Chandrashekhar government resigned in March 1991.
 			○ The new Congress government under P.V. Narasimha Rao took office in June 1991.
 		• The uncertainty surrounding economic policies and the ongoing crisis led to low investor confidence, causing delays in industrial investments.
