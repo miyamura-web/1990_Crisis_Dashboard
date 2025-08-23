@@ -60,19 +60,19 @@ The 1990s was a defining decade in economic history marked by high inflation, mo
 		○ Investments in manufacturing, steel, and textiles led to a positive IPI rate.   <br>
 		○ The economy was heavily controlled, with licensing requirements restricting rapid industrial expansion.
 
-3. 1990-1991 (Sharp Decline in IPI – Industrial Slowdown) :
+2. 1990-1991 (Sharp Decline in IPI – Industrial Slowdown) :  <br>
 		• 1991 Economic Crisis: 
 		○ In July 1991, India devalued the rupee twice (by nearly 18-19%).
 		○ While this helped exports, it also made imported raw materials and machinery costlier, increasing production costs.
-		○ 1991 was a politically unstable year:
+		• 1991 was a politically unstable year:
 			○ The Chandrashekhar government resigned in March 1991.
 			○ The new Congress government under P.V. Narasimha Rao took office in June 1991.
-		○ The uncertainty surrounding economic policies and the ongoing crisis led to low investor confidence, causing delays in industrial investments.
-		○ To control inflation and stabilize the economy, the Reserve Bank of India (RBI) tightened monetary policy.
-		○ Higher interest rates made it costly for businesses to borrow, reducing industrial expansion and investment.
-		○ Many businesses, especially in manufacturing and heavy industries, struggled to get credit.
+		• The uncertainty surrounding economic policies and the ongoing crisis led to low investor confidence, causing delays in industrial investments.
+		• To control inflation and stabilize the economy, the Reserve Bank of India (RBI) tightened monetary policy.
+		• Higher interest rates made it costly for businesses to borrow, reducing industrial expansion and investment.
+		• Many businesses, especially in manufacturing and heavy industries, struggled to get credit.
 		
-4. 1992-1995 (Recovery and Industrial Growth Resurgence) :
+3. 1992-1995 (Recovery and Industrial Growth Resurgence) :
 		○ Liberalization & Privatization (1991 Reforms): 
 			• Removal of industrial licensing (License Raj) encouraged private sector expansion.
 			• Foreign Direct Investment (FDI) inflows supported industries like automobiles, steel, and consumer goods.
