@@ -55,8 +55,8 @@ The 1990s was a defining decade in economic history marked by high inflation, mo
 		○ Trade Balance Improvement: A gradual rise in exports helped earn foreign exchange, reducing the debt burden.
 
 #### IPI Rate :-
-1. 1985-1989 (Stable and Moderate Growth in Industrial Production) :
-		○ Industrial output grew steadily due to government policies supporting public sector enterprises.
+1. 1985-1989 (Stable and Moderate Growth in Industrial Production) :  <br>
+		○ Industrial output grew steadily due to government policies supporting public sector enterprises.  
 		○ Investments in manufacturing, steel, and textiles led to a positive IPI rate.
 		○ The economy was heavily controlled, with licensing requirements restricting rapid industrial expansion.
 2. 1990-1991 (Sharp Decline in IPI – Industrial Slowdown) :
