@@ -72,8 +72,8 @@ The 1990s was a defining decade in economic history marked by high inflation, mo
 		• Higher interest rates made it costly for businesses to borrow, reducing industrial expansion and investment.        <br>
 		• Many businesses, especially in manufacturing and heavy industries, struggled to get credit.
 		
-3. 1992-1995 (Recovery and Industrial Growth Resurgence) :
-		○ Liberalization & Privatization (1991 Reforms): 
+3. 1992-1995 (Recovery and Industrial Growth Resurgence) :  <br>
+		○ Liberalization & Privatization (1991 Reforms):  <br>
 			• Removal of industrial licensing (License Raj) encouraged private sector expansion.
 			• Foreign Direct Investment (FDI) inflows supported industries like automobiles, steel, and consumer goods.
 		○ Technological Upgrades: Industries started modernizing with new technology and foreign partnerships.
