@@ -81,7 +81,7 @@ The 1990s was a defining decade in economic history marked by high inflation, mo
 
 
 #### Export & Import :-
-1. 1985-1990 (Gradual Increase in Exports & Imports) :
+1. 1985-1990 (Gradual Increase in Exports & Imports) :  <br>
 			○ Protectionist Economy: India followed a trade-restricted, import-substituting model with high tariffs and import licensing.
 			○ Limited Exports: Exports grew slowly due to reliance on traditional goods like textiles and agricultural products.
 			○ Import Dependency: Essential imports (oil, machinery, and technology) remained high, leading to a trade deficit.
