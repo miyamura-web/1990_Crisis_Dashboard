@@ -83,15 +83,16 @@ The 1990s was a defining decade in economic history marked by high inflation, mo
 #### Export & Import :-
 1. 1985-1990 (Gradual Increase in Exports & Imports) :  <br>
 			○ Protectionist Economy: India followed a trade-restricted, import-substituting model with high tariffs and import licensing.   <br>
-			○ Limited Exports: Exports grew slowly due to reliance on traditional goods like textiles and agricultural products.
+			○ Limited Exports: Exports grew slowly due to reliance on traditional goods like textiles and agricultural products.    <br>
 			○ Import Dependency: Essential imports (oil, machinery, and technology) remained high, leading to a trade deficit.
-2. 1990-1991 (Imports Remain High, Exports Struggle – Widening Trade Deficit) :
+   
+3. 1990-1991 (Imports Remain High, Exports Struggle – Widening Trade Deficit) :
 			○ 1991 Economic Crisis: 
 				§ Forex reserves dropped drastically, covering only a few weeks of imports.
 				§ Rupee Depreciation made imports costlier, increasing trade imbalance.
 			○ Imports Remained High: Despite the crisis, India still relied on imports for oil, capital goods, and technology.
 			○ Slow Export Growth: Lack of competitiveness, infrastructure challenges, and global trade restrictions hurt export performance.
-3. 1992-1995 (Post-Liberalization – Sharp Increase in Exports & Imports) :
+4. 1992-1995 (Post-Liberalization – Sharp Increase in Exports & Imports) :
 			○ Trade Liberalization (1991 Reforms): 
 			○ The Indian government reduced import duties and tariffs, making foreign goods cheaper and increasing imports.
 			○ Restrictions on many imported goods were removed, leading to a surge in raw material and technology imports.
