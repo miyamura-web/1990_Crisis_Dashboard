@@ -87,7 +87,7 @@ The 1990s was a defining decade in economic history marked by high inflation, mo
 			○ Import Dependency: Essential imports (oil, machinery, and technology) remained high, leading to a trade deficit.
    
 3. 1990-1991 (Imports Remain High, Exports Struggle – Widening Trade Deficit) :    <br>
-			○ 1991 Economic Crisis: 
+			○ 1991 Economic Crisis:     <br>
 				§ Forex reserves dropped drastically, covering only a few weeks of imports.
 				§ Rupee Depreciation made imports costlier, increasing trade imbalance.
 			○ Imports Remained High: Despite the crisis, India still relied on imports for oil, capital goods, and technology.
