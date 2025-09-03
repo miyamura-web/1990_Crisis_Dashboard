@@ -102,8 +102,8 @@ The 1990s was a defining decade in economic history marked by high inflation, mo
 			○ Expansion of IT & Service Sector: The IT boom in the mid-1990s contributed to rising software and service exports.
 
 
-#### Foreign currency and gold :-
-1. 1985-1990 (Stable Reserves with Slow Growth) :
+#### Foreign currency and gold :-     <br>
+1. 1985-1990 (Stable Reserves with Slow Growth) :     <br>
 			○ Import-Dependent Economy: India had a controlled economy with limited foreign exchange reserves due to high import costs.
 			○ Rupee Overvaluation: A fixed exchange rate system kept the rupee artificially high, discouraging exports and reducing forex inflows.
 			○ Moderate Gold Reserves: The government maintained gold reserves as a backup for currency stability.
