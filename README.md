@@ -95,7 +95,7 @@ The 1990s was a defining decade in economic history marked by high inflation, mo
    
 5. 1992-1995 (Post-Liberalization – Sharp Increase in Exports & Imports) :  <br>
 			○ Trade Liberalization (1991 Reforms): 
-			○ The Indian government reduced import duties and tariffs, making foreign goods cheaper and increasing imports.
+			○ The Indian government reduced import duties and tariffs, making foreign goods cheaper and increasing imports.   <br>
 			○ Restrictions on many imported goods were removed, leading to a surge in raw material and technology imports.
 			○ FDI & Technology Boost: Foreign investments in manufacturing and services increased export capacity.
 			○ In 1991, India devalued the rupee twice (by about 18-19%), making Indian goods cheaper in foreign markets.
