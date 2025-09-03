@@ -104,8 +104,8 @@ The 1990s was a defining decade in economic history marked by high inflation, mo
 
 #### Foreign currency and gold :-     <br>
 1. 1985-1990 (Stable Reserves with Slow Growth) :     <br>
-			○ Import-Dependent Economy: India had a controlled economy with limited foreign exchange reserves due to high import costs.
-			○ Rupee Overvaluation: A fixed exchange rate system kept the rupee artificially high, discouraging exports and reducing forex inflows.
+			○ Import-Dependent Economy: India had a controlled economy with limited foreign exchange reserves due to high import costs.    <br>
+			○ Rupee Overvaluation: A fixed exchange rate system kept the rupee artificially high, discouraging exports and reducing forex inflows.    <br>
 			○ Moderate Gold Reserves: The government maintained gold reserves as a backup for currency stability.
 2. 1990-1991 (Severe Foreign Exchange Crisis – Forex Reserves Depleted) :
 			○ 1991 Balance of Payments Crisis: 
