@@ -93,7 +93,7 @@ The 1990s was a defining decade in economic history marked by high inflation, mo
 			○ Imports Remained High: Despite the crisis, India still relied on imports for oil, capital goods, and technology.     <br>
 			○ Slow Export Growth: Lack of competitiveness, infrastructure challenges, and global trade restrictions hurt export performance.
    
-5. 1992-1995 (Post-Liberalization – Sharp Increase in Exports & Imports) :
+5. 1992-1995 (Post-Liberalization – Sharp Increase in Exports & Imports) :  <br>
 			○ Trade Liberalization (1991 Reforms): 
 			○ The Indian government reduced import duties and tariffs, making foreign goods cheaper and increasing imports.
 			○ Restrictions on many imported goods were removed, leading to a surge in raw material and technology imports.
