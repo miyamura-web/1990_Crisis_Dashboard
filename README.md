@@ -37,19 +37,19 @@ The 1990s was a defining decade in economic history marked by high inflation, mo
 		○ High government spending on subsidies, public sector enterprises, and infrastructure leads to increasing debt.    <br>
 		○ A fixed exchange rate system and trade restrictions limit foreign reserves, pushing India toward external borrowing.
 
-3. 1990 (Peak Debt Crisis – 20.6%) :   <br>
+2. 1990 (Peak Debt Crisis – 20.6%) :   <br>
 		• Severe Balance of Payments (BoP) Crisis:   <br>
 			       ○ By 1990, India's foreign exchange reserves were nearly exhausted, covering only a few weeks of imports.    <br>
 			       ○ The government was unable to repay external debts, leading to a sharp increase in debt servicing costs.    <br>
 		• High Fiscal Deficit: Rising subsidies and inefficient public sector spending contributed to record debt accumulation.   <br>
 		• Dependence on External Borrowing: To maintain imports and government functions, India borrowed heavily from international lenders.
 
-5. 1991-1993 (Debt Stabilization through Economic Reforms) :  <br>
+3. 1991-1993 (Debt Stabilization through Economic Reforms) :  <br>
 		• IMF Bailout & Structural Adjustments: India secured a bailout from the International Monetary Fund (IMF), leading to economic reforms.  <br>
 		• Devaluation of the Rupee (1991): The government devalued the currency to make exports competitive and improve foreign reserves.   <br>
 		• Privatization & Economic Liberalization: Structural reforms reduced the burden on the government, stabilizing debt growth.
 
-7. Post-1993 (Debt Control and Growth) :  <br>
+4. Post-1993 (Debt Control and Growth) :  <br>
 		○ Higher GDP Growth: With reforms, GDP began to rise, improving India's ability to manage debt.    <br>
 		○ Foreign Direct Investment (FDI) Inflows: Increased FDI reduced the need for external borrowing.        <br>
 		○ Trade Balance Improvement: A gradual rise in exports helped earn foreign exchange, reducing the debt burden.
@@ -93,10 +93,10 @@ The 1990s was a defining decade in economic history marked by high inflation, mo
 			○ Imports Remained High: Despite the crisis, India still relied on imports for oil, capital goods, and technology.     <br>
 			○ Slow Export Growth: Lack of competitiveness, infrastructure challenges, and global trade restrictions hurt export performance.
    
-5. 1992-1995 (Post-Liberalization – Sharp Increase in Exports & Imports) :  <br>
-			○ Trade Liberalization (1991 Reforms): 
+3. 1992-1995 (Post-Liberalization – Sharp Increase in Exports & Imports) :  <br>
+			○ Trade Liberalization (1991 Reforms):  <br>
 			○ The Indian government reduced import duties and tariffs, making foreign goods cheaper and increasing imports.   <br>
-			○ Restrictions on many imported goods were removed, leading to a surge in raw material and technology imports.
+			○ Restrictions on many imported goods were removed, leading to a surge in raw material and technology imports.    <br>
 			○ FDI & Technology Boost: Foreign investments in manufacturing and services increased export capacity.
 			○ In 1991, India devalued the rupee twice (by about 18-19%), making Indian goods cheaper in foreign markets.
 			○ Expansion of IT & Service Sector: The IT boom in the mid-1990s contributed to rising software and service exports.
